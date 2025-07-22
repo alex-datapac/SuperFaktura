@@ -15,6 +15,7 @@ pip install requests
 - `SF_EMAIL` – your SuperFaktura account email
 - `SF_API_KEY` – the API key
 - `SF_COMPANY_ID` – the company identifier
+- `SF_BASE_URL` – *(optional)* base API URL, defaults to `https://moja.superfaktura.sk/api`
 
 ## Fetching invoices
 
