@@ -4,10 +4,10 @@ This repository contains a minimal Python client for the [SuperFaktura](https://
 
 ## Setup
 
-1. Install the required dependency `requests`:
+1. Install the required dependencies:
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 2. Set the following environment variables with your SuperFaktura credentials:
