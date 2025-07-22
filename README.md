@@ -25,3 +25,13 @@ python fetch_invoices.py
 ```
 
 The script prints the returned JSON payload of invoices.
+
+## Running tests
+
+Install the test dependency `pytest` and execute the suite:
+
+```bash
+pip install pytest
+pytest
+```
+
